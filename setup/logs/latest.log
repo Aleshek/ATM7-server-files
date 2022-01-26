@@ -1,0 +1,1270 @@
+[15:51:01] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 39.0.43, --fml.mcVersion, 1.18.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20211210.034407, nogui]
+[15:51:01] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.1 by Oracle Corporation
+[15:51:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/E:/Desktop/ATM-server-files/server-files/SIMPLE-SERVER-FILES-0.2.35/setup/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2319! Service=ModLauncher Env=SERVER
+[15:51:38] [main/INFO]: Found mod file [1.18.1] SecurityCraft v1.9.0.2-beta1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file absentbydesign-1.18-1.6.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file AdditionalEnchantedMiner-1.18.1-18.5.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file additionallanterns-1.0.0-mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file advancedperipherals-1.18.1-0.7.8.1r.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file AEInfinityBooster-1.18.1-1.0.0+3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file AI-Improvements-1.18-0.4.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file alexsmobs-1.16.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file AllTheCompressed-1.0.2-1.18.1-39.0.59.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file allthemodium-1.7.0-pre22-1.18.1-39.0.10.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file alltheores-1.7.9-1.18.1-39.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file allthetweaks-1.8.3-1.18.1-39.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file angelring-1.18.1-2.0.0.alpha.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Apotheosis-1.18.1-5.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file appleskin-forge-mc1.18-2.2.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file appliedenergistics2-10.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Aquaculture-1.18.1-2.3.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file architectury-3.4.9.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ars_nouveau-1.18.1-2.1.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file artifacts-1.18.1-4.0.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file balm-2.4.1+0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file baubley-heart-canisters-1.18-1.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Beyond-Earth-1.18.1-6.0b.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Beyond-Earth-Giselle-Addon-1.18.1-1.5.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file biggerreactors-1.18.1-0.6.0-beta.0.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file BiomesOPlenty-1.18.1-15.0.0.105-universal.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file blockui-1.18-0.0.40-ALPHA.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file blockydoors-1.18-1.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file blue_skies-1.18.1-1.3.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file buildinggadgets-3.10.1-build.3+mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file caelus-forge-1.18-3.0.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file catalogue-1.6.0-1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file cc-tweaked-1.18.1-1.100.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file charginggadgets-1.5.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file chipped-1.18.1-1.2.1-forge.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file citadel-1.10.8-1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file cleancut-mc1.18-3.0-forge.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file clickadv-1.18-2.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ClickMachine-1.18.1-6.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file clienttweaks-forge-1.18-7.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file cloth-config-6.1.50-forge.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Clumps-forge-1.18.1-8.0.0+5.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file collective-1.18.1-3.8.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file comforts-forge-1.18-5.0.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file CommonCapabilities-1.18.1-2.8.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file compactmachines-4.0.0-beta.4.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file configured-1.5.1-1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file connectedglass-1.1.1-mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file constructionwand-1.18.1-2.6.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file cookingforblockheads-forge-1.18.1-11.1.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file corail_woodcutter-1.18-2.2.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file CosmeticArmorReworked-1.18.1-v1a.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file craftingtweaks-forge-1.18.1-14.0.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file crashutilities-4.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file create-mc1.18.1_v0.4c.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file createaddition-1.18.1-20220111b.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file creeperoverhaul-1.18.1-0.2.0-forge.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Croptopia-1.18-FORGE-1.8.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file CTM-1.18-1.1.3+1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Cucumber-1.18.1-5.0.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file curioofundying-forge-1.18-5.3.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file curios-forge-1.18.1-5.0.6.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file curiouselytra-forge-1.18.1-5.0.1.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file curiousshulkerboxes-forge-1.18.1-4.2.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file CyclopsCore-1.18.1-1.13.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file DimStorage-1.18.1-6.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file domum_ornamentum-1.18.1-1.0.39-ALPHA-universal.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file DungeonCrawl-1.18.1-2.3.6.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file DungeonsArise-1.18.1-2.1.49c-beta.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file elevatorid-1.18-1.8.3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file enderchests-1.18-1.9.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file endertanks-1.18-1.11.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file engineersdecor-1.18.1-1.1.19-b3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file enhancedcelestials-2.0.9-1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file entangled-1.3.10-mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file expandability-5.0.0-forge.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ExplorersCompass-1.18.1-1.1.2-forge.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ExtraDisks-1.18.1-2.0.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ExtraStorage-1.18.1-2.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file farmingforblockheads-forge-1.18.1-9.0.3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file FastFurnace-1.18.1-6.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file FastLeafDecay-27.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file FastSuite-1.18.1-3.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file FastWorkbench-1.18.1-6.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file feature_nbt_deadlock_be_gone_forge-1.0.0+1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ferritecore-4.0.0-forge.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file flywheel-forge-1.18-0.5.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file FpsReducer-forge-1.25-mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file FramedBlocks-4.1.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ftb-chunks-forge-1801.3.4-build.121.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ftb-library-forge-1801.3.5-build.109.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ftb-teams-forge-1801.2.4-build.46.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file furniture-7.0.0-pre27-1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file geckolib-1.18-forge-3.0.9.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file glassential-forge-1.18-1.2.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file hexerei-0.1.13.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file HostileNeuralNetworks-1.18.1-3.0.5.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Iceberg-1.18.1-1.0.33.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ImmersiveEngineering-1.18.1-7.1.0-145.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file IntegratedCrafting-1.18.1-1.0.20.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file IntegratedDynamics-1.18.1-1.10.6.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file IntegratedTerminals-1.18.1-1.2.11.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file IntegratedTunnels-1.18.1-1.8.9.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file inventoryessentials-forge-1.18-4.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file inventorysorter-1.18-19.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ironchest-1.18-13.0.7.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ironfurnaces-1.18.1-3.1.3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file IronJetpacks-1.18.1-5.0.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file itemcollectors-1.1.4-mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file jeed-1.18-1.6.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file jei-1.18.1-9.2.3.82.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file jmi-1.18.1-0.7-36.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file journeymap-1.18.1-5.8.0beta11.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file JustEnoughProfessions-1.18-1.2.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file JustEnoughResources-1.18.1-0.13.1.141.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Kiwi-1.18-forge-5.2.3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file kubejs-create-1801.2.0-build.14.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file kubejs-forge-1801.4.1-build.271.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file kubejs-immersive-engineering-1801.2.0-build.29.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file lazydfu-1.0-1.18+.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file LibX-1.18.1-3.1.8.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file LightingWand-1.18-forge-3.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file logprot-1.18-1.4.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file lootr-1.18-0.1.14.44.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mahoutsukai-1.18.1-v1.34.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mcjtylib-1.18-6.0.7.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mcw-bridges-2.0.1-mc1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mcw-doors-1.0.5-mc1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mcw-fences-1.0.2-mc1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mcw-lights-1.0.2-mc1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mcw-paintings-1.0.2-mc1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mcw-roofs-2.1.0-mc1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mcw-trapdoors-1.0.4-mc1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mcw-windows-2.0.2-mc1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file minecolonies-1.18.1-1.0.368-ALPHA.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mininggadgets-1.10.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mna-1.7.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file mob_grinding_utils-1.18.1-0.4.33.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file modnametooltip-1.18.1-1.18.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file modular-routers-1.18.1-9.0.1-79.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file moredragoneggs-3.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file MouseTweaks-forge-mc1.18-2.21.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file multi-piston-1.18-1.2.2-ALPHA.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file MyServerIsCompatible-1.18-1.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file MysticalAgradditions-1.18.1-5.0.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file MysticalAgriculture-1.18.1-5.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file MysticalCustomization-1.18.1-3.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file NaturesAura-35.4.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file NaturesCompass-1.18.1-1.9.4-forge.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file netherportalfix-forge-1.18-9.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file no_null_processors_forge-2.0.2+1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file nomowanderer-1.18.1_1.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file norecipeadvancements-2.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file occultism-1.18.1-1.25.5.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file OreExcavation-1.10.159.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file PassthroughSigns-1.18-2.5.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Patchouli-1.18.1-64.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file PatinaPipeworks-1.18.1-1.0.6-universal.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file phosphophyllite-1.18.1-0.6.0-beta.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file pipez-1.18.1-1.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Placebo-1.18.1-6.0.4.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file platforms-1.18-1.9.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file polymorph-forge-1.18.1-0.36.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file potionsmaster-0.5.2-1.18.1-39.0.19.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file productivebees-1.18.1-0.8.0.6.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file PuzzlesLib-v3.1.3-1.18.1-Forge.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file pylons-2.0.6.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file quartz-1.18.1-0.0.0-beta.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file rangedpumps-0.9.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file reap-1.18.1-1.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file refinedstorage-1.10.0-beta.4.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file refinedstorageaddons-0.8.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file repurposed_structures_forge-4.2.5+1.18.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file rftoolsbase-1.18-3.0.3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file rftoolsbuilder-1.18-4.0.5.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file rftoolscontrol-1.18-5.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file rftoolspower-1.18-4.0.3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file rftoolsstorage-1.18-3.0.5.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file rftoolsutility-1.18-4.0.6.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file rhino-forge-1800.1.7-build.94.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file RootsClassic-1.18.1-1.1.17.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file rsgauges-1.18.1-1.2.13.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file SaveYourPets-1.18-1.0.0.6.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file ScalableCatsForce-2.13.7-build-2-with-library.jar of type LANGPROVIDER with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file selene-1.18-1.12.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file shetiphiancore-1.18-3.10.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file Shrink-1.18.1-1.3.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file silent-gear-1.18.1-2.8.6.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file silent-lib-1.18-6.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file simplemagnets-1.1.4-mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file SimpleStorageNetwork-1.18.1-1.5.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file simplylight-1.18.1-1.4.0-build.26.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file SoL-Carrot-1.18.1-1.12.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file sophisticatedbackpacks-1.18.1-3.15.1.505.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file spark-forge.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file StorageDrawers-1.18.1-10.1.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file structure_gel-1.18.1-2.1.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file structurize-1.18.1-1.0.335-ALPHA.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file supermartijn642configlib-1.0.9-mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file supermartijn642corelib-1.0.16a-mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file supplementaries-1.18.1-1.1.11.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file TerraBlender-forge-1.18.1-1.1.0.73.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file TerraForged-1.18.1-0.3.0-alpha-2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file tesseract-1.0.24-mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file theoneprobe-1.18-5.0.3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file tinygates-2.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file tinyredstone-1.18-3.1.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file tombstone-7.3.6-1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file toms_storage-1.18-1.2.23.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file torchmaster-18.0.3-beta.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file TradingPost-v3.1.2-1.18.1-Forge.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file trashcans-1.0.12-mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file trashslot-forge-1.18-11.0.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file treeharvester_1.18.1-4.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file UtilitiX-1.18.1-0.3.7.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file villagertools-1.18-1.0.2.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file voidtotem-forge-1.18.1-1.1.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file WaterStrainer-1.18-12.1.0.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file waystones-forge-1.18.1-9.0.3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file windowlogging-mc1.18.1_v0.0.8.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file wirelesschargers-1.0.3a-mc1.18.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file WitherSkeletonTweaks-1.18.1-7.0.1.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file xnet-1.18-4.0.3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file xptome-1.18-2.1.3.jar of type MOD with locator {mods folder locator at E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\mods}
+[15:51:38] [main/INFO]: Found mod file fmlcore-1.18.1-39.0.43.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@53f48368
+[15:51:38] [main/INFO]: Found mod file javafmllanguage-1.18.1-39.0.43.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@53f48368
+[15:51:38] [main/INFO]: Found mod file mclanguage-1.18.1-39.0.43.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@53f48368
+[15:51:38] [main/INFO]: Found mod file server-1.18.1-20211210.034407-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@53f48368
+[15:51:38] [main/INFO]: Found mod file forge-1.18.1-39.0.43-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@53f48368
+[15:51:44] [main/INFO]: Compatibility level set to JAVA_17
+[15:51:45] [main/INFO]: Successfully loaded Mixin Connector [com.thevortex.allthetweaks.mixin.MixinConnector]
+[15:51:45] [main/INFO]: Successfully loaded Mixin Connector [shetiphian.endertanks.mixins.MixinConnector]
+[15:51:45] [main/INFO]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[15:51:45] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
+[15:51:45] [main/WARN]: Reference map 'croptopia.refmap.json' for croptopia.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:51:46] [main/WARN]: Reference map 'rhino-forge-refmap.json' for rhino.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:51:46] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:51:46] [main/FATAL]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[15:51:46] [main/WARN]: Error loading class: net/minecraft/client/player/LocalPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER)
+[15:51:46] [main/WARN]: @Mixin target net.minecraft.client.player.LocalPlayer was not found ars_nouveau.mixins.json:ClientElytraMixin
+[15:51:47] [main/INFO]: Patching ServerResources#<init>
+[15:51:47] [main/WARN]: Error loading class: de/maxhenkel/gravestone/events/DeathEvents (java.lang.ClassNotFoundException: de.maxhenkel.gravestone.events.DeathEvents)
+[15:51:47] [main/WARN]: Error loading class: de/maxhenkel/corpse/events/DeathEvents (java.lang.ClassNotFoundException: de.maxhenkel.corpse.events.DeathEvents)
+[15:51:53] [main/INFO]: Lazy DFU
+[15:51:57] [modloading-worker-0/INFO]: Patching ServerResources#<init>
+[15:51:58] [modloading-worker-0/INFO]: Found 2 RS API injection points
+[15:51:58] [modloading-worker-0/INFO]: Injected RS API in org.cyclops.integrateddynamicscompat.modcompat.refinedstorage.aspect.RefinedStorageAspects RS
+[15:51:58] [modloading-worker-0/INFO]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[15:51:58] [modloading-worker-0/WARN]: Configuration file E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\config\ironfurnaces.toml is not correct. Correcting
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.recipe_cache was corrected from null to its default, 10. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.iron_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.iron_furnace.speed was corrected from null to its default, 160. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.gold_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.gold_furnace.speed was corrected from null to its default, 120. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.diamond_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.diamond_furnace.speed was corrected from null to its default, 80. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.emerald_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.emerald_furnace.speed was corrected from null to its default, 40. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.obsidian_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.obsidian_furnace.speed was corrected from null to its default, 20. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.crystal_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.crystal_furnace.speed was corrected from null to its default, 40. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.netherite_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.netherite_furnace.speed was corrected from null to its default, 5. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.copper_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.copper_furnace.speed was corrected from null to its default, 180. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.silver_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.silver_furnace.speed was corrected from null to its default, 140. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.rainbow_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.rainbow_furnace.speed was corrected from null to its default, 20. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.furance_xp_drop was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.furance_xp_drop.value was corrected from null to its default, 10. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key furnaces.furance_xp_drop.value_two was corrected from null to its default, 100000. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key modded_furnaces was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key modded_furnaces.allthemodium_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key modded_furnaces.allthemodium_furnace.speed was corrected from null to its default, 5. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key modded_furnaces.allthemodium_furnace.mult was corrected from null to its default, 16. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key modded_furnaces.vibranium_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key modded_furnaces.vibranium_furnace.speed was corrected from null to its default, 3. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key modded_furnaces.vibranium_furnace.mult was corrected from null to its default, 32. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key modded_furnaces.unobtanium_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key modded_furnaces.unobtanium_furnace.speed was corrected from null to its default, 1. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key modded_furnaces.unobtanium_furnace.mult was corrected from null to its default, 64. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key jei was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key jei.jei was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key jei.jei.enable_jei was corrected from null to its default, true. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key jei.jei.enable_jei_catalysts was corrected from null to its default, true. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key jei.jei.enable_jei_click_area was corrected from null to its default, true. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key misc.misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key misc.misc.rainbow was corrected from null to its default, true. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key misc.misc.errors was corrected from null to its default, false. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key updates was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key updates.check_updates was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:51:58] [modloading-worker-0/WARN]: Incorrect key updates.check_updates.updates was corrected from null to its default, true. 
+[15:51:58] [modloading-worker-0/INFO]: Initializing Update Checker...
+[15:51:58] [ Iron Furnaces Update Checker/INFO]: Starting Update Check...
+[15:51:59] [ Iron Furnaces Update Checker/INFO]: Update Check done!
+[15:51:59] [ Iron Furnaces Update Checker/INFO]: Iron Furnaces is up to date!
+[15:52:01] [modloading-worker-0/INFO]: Processing 3 KiwiModule annotations
+[15:52:01] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (merchantNames in net.blay09.mods.farmingforblockheads.FarmingForBlockheadsConfigData)
+[15:52:01] [modloading-worker-0/INFO]: 14 blocks registered.
+[15:52:01] [modloading-worker-0/INFO]: 29 items registered.
+[15:52:01] [modloading-worker-0/INFO]: 13 tiles registered.
+[15:52:01] [modloading-worker-0/INFO]: 13 containers registered.
+[15:52:04] [modloading-worker-0/INFO]: M&A -> Config Loaded
+[15:52:04] [modloading-worker-0/INFO]: M&A -> Mod Event Bus Handlers Registered
+[15:52:05] [Modding Legacy/blue_skies/Supporters thread/INFO]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[15:52:05] [modloading-worker-0/INFO]: AdvancedPeripherals says hello!
+[15:52:05] [modloading-worker-0/INFO]: Gauges and Switches GIT id #c5a9b6d.
+[15:52:05] [modloading-worker-0/INFO]: Environment:
+[15:52:05] [modloading-worker-0/INFO]: - Dev:       false
+[15:52:05] [modloading-worker-0/INFO]: - Profiling: false
+[15:52:05] [modloading-worker-0/INFO]: - Unlimited: false
+[15:52:05] [modloading-worker-0/INFO]: - Debugging: false
+[15:52:05] [modloading-worker-0/INFO]: - Data Gen:  false
+[15:52:05] [modloading-worker-0/INFO]: - Cores:     8
+[15:52:05] [modloading-worker-0/INFO]: Set TerraForged API: ForgeCommonAPI
+[15:52:05] [Modding Legacy/blue_skies/Supporters thread/INFO]: Successfully loaded the Modding Legacy supporters list.
+[15:52:06] [modloading-worker-0/INFO]: Forge mod loading, version 39.0.43, for MC 1.18.1 with MCP 20211210.034407
+[15:52:06] [modloading-worker-0/INFO]: MinecraftForge v39.0.43 Initialized
+[15:52:07] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[15:52:08] [modloading-worker-0/INFO]: Here we go! Launching Dungeon Crawl 2.3.6...
+[15:52:08] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[15:52:08] [modloading-worker-0/INFO]: Found kubejs plugin
+[15:52:09] [modloading-worker-0/INFO]: Found kubejs_create plugin
+[15:52:09] [modloading-worker-0/INFO]: Found kubejs_immersive_engineering plugin
+[15:52:09] [modloading-worker-0/INFO]: Found ftbchunks plugin
+[15:52:09] [modloading-worker-0/INFO]: Done in 0 s
+[15:52:09] [modloading-worker-0/INFO]: Loaded common.properties
+[15:52:09] [modloading-worker-0/INFO]: Hello, World! (You will only see this line once in console, during startup)
+[15:52:09] [modloading-worker-0/INFO]: Loaded script startup_scripts:script.js in 0.097 s
+[15:52:09] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS startup scripts in 0.236 s
+[15:52:09] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[15:52:09] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalcustomization.lib.ModCorePlugin
+[15:52:09] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
+[15:52:09] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
+[15:52:09] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
+[15:52:10] [modloading-worker-0/INFO]: Registering mod: pylons
+[15:52:10] [modloading-worker-0/INFO]: Registered 1 network packets
+[15:52:10] [modloading-worker-0/INFO]: Engineer's Decor GIT id #d31cedf.
+[15:52:10] [modloading-worker-0/INFO]: ExpandAbility here, who dis?
+[15:52:10] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[15:52:10] [main/INFO]: Module [kiwi:contributors] initialized
+[15:52:10] [main/INFO]: Module [lightingwand:core] initialized
+[15:52:10] [main/INFO]:     block: 1
+[15:52:10] [main/INFO]:     entity_type: 1
+[15:52:10] [main/INFO]:     item: 1
+[15:52:10] [main/INFO]:     recipe_serializer: 1
+[15:52:10] [main/INFO]: Module [kiwi:data] initialized
+[15:52:10] [main/INFO]:     recipe_serializer: 3
+[15:52:10] [main/INFO]: Finished registering registries!
+[15:52:10] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:10] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:10] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:10] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:10] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:10] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:10] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:10] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:10] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:10] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:12] [main/INFO]: HELLO from Register Block
+[15:52:16] [main/INFO]: Immersive Engineering also installed ...
+[15:52:16] [main/INFO]: Registered 112 blocks.
+[15:52:16] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:16] [main/INFO]: M&A -> Block Items Registered
+[15:52:16] [main/INFO]: Registered BlockItems
+[15:52:16] [main/INFO]: Registered SpawnEggItems
+[15:52:16] [main/INFO]: Registered compostable Items
+[15:52:16] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `lantern`, expected `additionallanterns`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:17] [main/INFO]: Registered 18 tile entities.
+[15:52:18] [main/INFO]: Registered 1 entities bound to blocks.
+[15:52:18] [main/INFO]: Potentially Dangerous alternative prefix `integrateddynamics` for name `menril_resin`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:18] [main/INFO]: Potentially Dangerous alternative prefix `integrateddynamics` for name `menril_resin_flowing`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:18] [main/INFO]: Potentially Dangerous alternative prefix `integrateddynamics` for name `liquid_chorus`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:18] [main/INFO]: Potentially Dangerous alternative prefix `integrateddynamics` for name `liquid_chorus_flowing`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:18] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:18] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[15:52:18] [main/INFO]: M&A -> Containers Registered
+[15:52:18] [main/INFO]: Registered 8 containers bound to tile entities.
+[15:52:18] [main/INFO]: M&A -> Villager POI Registered
+[15:52:19] [main/INFO]: M&A -> Villager Professions Registered
+[15:52:19] [main/INFO]: M&A -> Ritual Effects Registered
+[15:52:19] [main/WARN]: defineId called for: class com.mna.entities.boss.BossMonster from class com.mna.entities.boss.EntityOdin
+[15:52:19] [main/WARN]: defineId called for: class com.mna.entities.boss.BossMonster from class com.mna.entities.boss.EntityOdin
+[15:52:19] [main/INFO]: AllTheOres: loading config
+[15:52:19] [Thread-0/INFO]: AllTheOres: loading config
+[15:52:19] [main/INFO]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[15:52:19] [main/INFO]: Loading Config: blue_skies-common.toml
+[15:52:19] [main/INFO]: Loading Config: blue_skies-common.toml
+[15:52:19] [Thread-0/INFO]: Reloading Config: blue_skies-common.toml
+[15:52:19] [Thread-0/INFO]: Reloading Config: blue_skies-common.toml
+[15:52:20] [main/INFO]: Common config re-baked
+[15:52:20] [modloading-worker-0/INFO]: Registered packet handler.
+[15:52:20] [modloading-worker-0/INFO]: clickadv mod initialized
+[15:52:20] [modloading-worker-0/INFO]: --- LootTable import: Start ---
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 13: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:sand - Count: 1 - Chance: 30 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 14: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:dirt - Count: 1 - Chance: 20 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 15: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:stick - Count: 1 - Chance: 20 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 16: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:clay_ball - Count: 1 - Chance: 15 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 17: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:gravel - Count: 1 - Chance: 13 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 18: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:iron_nugget - Count: 1 - Chance: 1 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 19: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:gold_nugget - Count: 1 - Chance: 1 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 21: Copied loot table data from <parent> 'strainer_survivalist' to <child> 'strainer_survivalist_solid'
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 22: Copied loot table data from <parent> 'strainer_survivalist' to <child> 'strainer_survivalist_reinforced'
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 25: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:cod - Count: 1 - Chance: 60 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 26: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:salmon - Count: 1 - Chance: 25 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 27: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:pufferfish - Count: 1 - Chance: 13 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 28: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:tropical_fish - Count: 1 - Chance: 2 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 29: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:stick - Count: 1 - Chance: 8 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 30: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:string - Count: 1 - Chance: 4 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 31: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:leather - Count: 1 - Chance: 4 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 32: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:rotten_flesh - Count: 1 - Chance: 4 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 33: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:bone - Count: 1 - Chance: 4 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 34: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:glass_bottle - Count: 1 - Chance: 4 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 35: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:lily_pad - Count: 1 - Chance: 2 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 36: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:vine - Count: 1 - Chance: 2 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 37: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:enchanted_book - Count: 1 - Chance: 1 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 38: Added loot to table: Strainer: strainer_fisherman - Item: $BLANK$ - Count: 1 - Chance: 67 - NBT: null
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 40: Copied loot table data from <parent> 'strainer_fisherman' to <child> 'strainer_fisherman_solid'
+[15:52:20] [modloading-worker-0/INFO]: [SUCCESS] Line 41: Copied loot table data from <parent> 'strainer_fisherman' to <child> 'strainer_fisherman_reinforced'
+[15:52:20] [modloading-worker-0/INFO]: Result: Found 0 errors
+[15:52:20] [modloading-worker-0/INFO]: --- LootTable import: End ---
+[15:52:20] [modloading-worker-0/INFO]: Loading compat module for mod patchouli
+[15:52:20] [modloading-worker-0/INFO]: Loading compat module for mod curios
+[15:52:20] [modloading-worker-0/INFO]: -- Nature's Aura Fake Player Information --
+[15:52:20] [modloading-worker-0/INFO]: Name: [Minecraft]
+[15:52:20] [modloading-worker-0/INFO]: UUID: 41C82C87-7AfB-4024-BA57-13D2C99CAE77
+[15:52:20] [modloading-worker-0/INFO]: -------------------------------------------
+[15:52:20] [modloading-worker-0/INFO]: ConstructionWand says hello - may the odds be ever in your favor.
+[15:52:20] [modloading-worker-0/INFO]: Tom's Storage Setup starting
+[15:52:20] [modloading-worker-0/INFO]: Initilaized Network Handler
+[15:52:20] [modloading-worker-0/INFO]: Shields up!
+[15:52:20] [Immersive Engineering Contributors Thread/INFO]: Attempting to download special revolvers from GitHub
+[15:52:20] [modloading-worker-0/INFO]: Registered packet handler.
+[15:52:20] [modloading-worker-0/INFO]: Registered packet handler.
+[15:52:21] [modloading-worker-0/INFO]: M&A -> Network Messages Registered
+[15:52:21] [modloading-worker-0/INFO]: Mana And Artifice >> Registered loot functions
+[15:52:21] [modloading-worker-0/INFO]: M&A -> Flower Pots Registered
+[15:52:21] [modloading-worker-0/INFO]: Common setup complete.
+[15:52:21] [modloading-worker-0/INFO]: Registering recipe condition processor ...
+[15:52:21] [Forge Version Check/INFO]: Global Forge version check system disabled, no further processing.
+[15:52:21] [modloading-worker-0/INFO]: FTBChunk integration loaded.
+[15:52:21] [modloading-worker-0/INFO]: Waystones integration loaded.
+[15:52:21] [modloading-worker-0/INFO]: Common Setup
+[15:52:21] [modloading-worker-0/INFO]: Whitelisted Dimensions:
+[15:52:21] [modloading-worker-0/INFO]: minecraft:overworld
+[15:52:21] [modloading-worker-0/INFO]: XNet Detected RFTools Control: enabling support
+[15:52:21] [modloading-worker-0/INFO]: RFTools Storage Detected XNet: enabling support
+[15:52:21] [modloading-worker-0/INFO]: New compacting rule 4 clay_ball = 1 clay
+[15:52:21] [modloading-worker-0/INFO]: New compacting rule 4 snowball = 1 snow_block
+[15:52:21] [modloading-worker-0/INFO]: New compacting rule 4 glowstone_dust = 1 glowstone
+[15:52:21] [modloading-worker-0/INFO]: New compacting rule 4 brick = 1 bricks
+[15:52:21] [modloading-worker-0/INFO]: New compacting rule 4 nether_brick = 1 nether_bricks
+[15:52:21] [modloading-worker-0/INFO]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[15:52:21] [modloading-worker-0/INFO]: New compacting rule 4 quartz = 1 quartz_block
+[15:52:21] [modloading-worker-0/INFO]: New compacting rule 9 melon_slice = 1 melon
+[15:52:21] [modloading-worker-0/INFO]: New compacting rule 4 sand = 1 sandstone
+[15:52:21] [modloading-worker-0/INFO]: New compacting rule 4 red_sand = 1 red_sandstone
+[15:52:21] [modloading-worker-0/INFO]: New compacting rule 4 clay_ball = 1 clay
+[15:52:22] [modloading-worker-0/INFO]: Registering recipe condition processor ...
+[15:52:22] [modloading-worker-0/INFO]: Modular Routers is loading!
+[15:52:22] [main/INFO]: Registered biome provider minecraft:biome_provider to index 0
+[15:52:22] [main/INFO]: Removed biome provider minecraft:biome_provider
+[15:52:22] [main/INFO]: Registered biome provider minecraft:biome_provider to index 0
+[15:52:22] [main/INFO]: Registered biome provider biomesoplenty:biome_provider to index 1
+[15:52:22] [main/INFO]: Registered biome provider biomesoplenty:rare_biome_provider to index 2
+[15:52:22] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / mna:runeforging-type]' to registry
+[15:52:22] [main/INFO]: M&A -> Recipe Types Registered
+[15:52:22] [main/INFO]: Registering world-gen core codecs
+[15:52:22] [main/INFO]: Registering world-gen component codecs
+[15:52:22] [main/INFO]: Locking mod world-gen registries
+[15:52:22] [main/INFO]: Registering world-gen content
+[15:52:22] [main/INFO]: Extracting default datapack to E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\config\terraforged\pack-v0
+[15:52:22] [main/INFO]: Injecting safe world-gen network codec
+[15:52:23] [main/INFO]: Injecting world-gen registry defaults
+[15:52:23] [main/INFO]: Loading world-gen registry content from data
+[15:52:23] [main/INFO]: Initializing Packet Registries
+[15:52:23] [main/INFO]: Registering Structure Piece Types
+[15:52:23] [modloading-worker-0/INFO]: Dedicated server setup complete.
+[15:52:24] [modloading-worker-0/INFO]: Enabled support for The One Probe
+[15:52:24] [modloading-worker-0/INFO]: Enabled support for The One Probe
+[15:52:24] [modloading-worker-0/INFO]: Enabled support for The One Probe
+[15:52:24] [modloading-worker-0/INFO]: Integration TOP
+[15:52:24] [modloading-worker-0/INFO]: refinedstorage has registered com.refinedmods.refinedstorage.container.GridContainerMenu for CraftingTweaks
+[15:52:24] [modloading-worker-0/INFO]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
+[15:52:24] [modloading-worker-0/INFO]: Applying mega torch entity block list overrides...
+[15:52:24] [modloading-worker-0/INFO]: Applying dread lamp entity block list overrides...
+[15:52:24] [modloading-worker-0/INFO]: M&A API initialized, it is now useable
+[15:52:24] [modloading-worker-0/WARN]: Register mappings
+[15:52:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:52:38] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[15:52:47] [main/INFO]: Injecting world-gen registry defaults
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / allthemodium:ore_vibranium]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / minecraft:cave_vine]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:cave_vines]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / alltheores:aluminum_ore]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / alltheores:lead_ore]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / alltheores:nickel_ore]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / alltheores:osmium_ore]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / alltheores:platinum_ore]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / alltheores:silver_ore]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / alltheores:tin_ore]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / alltheores:uranium_ore]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / alltheores:zinc_ore]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_aluminum]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_lead]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_nickel]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_osmium]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_platinum]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_silver]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tin]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_uranium]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_zinc]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_copper]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diamond]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_emerald]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_gold]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_lapis]' to registry
+[15:52:47] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_redstone]' to registry
+[15:52:47] [main/INFO]: Loading world-gen registry content from data
+[15:52:48] [main/WARN]: Assets URL 'union:/E:/Desktop/ATM-server-files/server-files/SIMPLE-SERVER-FILES-0.2.35/setup/libraries/net/minecraft/server/1.18.1-20211210.034407/server-1.18.1-20211210.034407-srg.jar%23262!/assets/.mcassetsroot' uses unexpected schema
+[15:52:48] [main/WARN]: Assets URL 'union:/E:/Desktop/ATM-server-files/server-files/SIMPLE-SERVER-FILES-0.2.35/setup/libraries/net/minecraft/server/1.18.1-20211210.034407/server-1.18.1-20211210.034407-srg.jar%23262!/data/.mcassetsroot' uses unexpected schema
+[15:52:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:52:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:52:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:52:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:52:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:52:48] [main/WARN]: Ambiguity between arguments [ftbteams, info, server_id] and [ftbteams, info, team] with inputs: [server_id]
+[15:52:48] [main/WARN]: Ambiguity between arguments [ftbchunks, admin, view_loaded_chunks, reset] and [ftbchunks, admin, view_loaded_chunks, dimension] with inputs: [reset]
+[15:52:48] [main/WARN]: Ambiguity between arguments [structurize, scan, pos1, pos2, anchor_pos] and [structurize, scan, pos1, pos2, player] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[15:52:48] [main/WARN]: Ambiguity between arguments [crashutilities, tp, player, pos] and [crashutilities, tp, player, otherPlayer] with inputs: [0 0 0]
+[15:52:48] [main/WARN]: Ambiguity between arguments [crashutilities, e, remove, items, force] and [crashutilities, e, remove, items, name] with inputs: [words_with_underscores, word]
+[15:52:48] [main/WARN]: Ambiguity between arguments [crashutilities, e, remove, items, name] and [crashutilities, e, remove, items, force] with inputs: [words_with_underscores, word]
+[15:52:48] [main/WARN]: Ambiguity between arguments [crashutilities, i, remove, name, slot] and [crashutilities, i, remove, name, slotType] with inputs: [0, -123, 123]
+[15:52:49] [main/WARN]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:52:49] [main/WARN]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:52:49] [main/WARN]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:52:49] [main/WARN]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:52:49] [main/WARN]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[15:52:49] [main/WARN]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[15:52:49] [main/INFO]: Loaded script server_scripts:constants.js in 0.011 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:tags.js in 0.012 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:unify.js in 0.009 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/ae/ae.js in 0.001 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/angelring/angelring.js in 0.001 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/beyond_earth/beyond_earth.js in 0.001 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/buildinggadgets/buildinggadgets.js in 0.001 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/computercraft/computercraft.js in 0.002 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/create/create.js in 0.002 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/entangled/entangled.js in 0.001 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/explorers_compass/explorers_compass.js in 0.001 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/immersive_engineering/immersive_engineering.js in 0.002 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/mininggadgets/mininggadgets.js in 0.001 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/mystical_agriculture/ma_crafting.js in 0.002 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/mystical_agriculture/ma_crops.js in 0.001 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/quarryplus/quarryplus.js in 0.001 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/refinedstorage/refinedstorage.js in 0.003 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/rftools/rftools.js in 0.001 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/storage_drawers/storage_drawers.js in 0.001 s
+[15:52:49] [main/INFO]: Loaded script server_scripts:mod_specific/_allthemods/allthemodium.js in 0.002 s
+[15:52:49] [main/INFO]: Loaded 20/20 KubeJS server scripts in 0.072 s
+[15:52:49] [main/INFO]: Scripts loaded
+[15:52:49] [main/INFO]: Registered custom recipe handler for type kubejs:shaped
+[15:52:49] [main/INFO]: Registered custom recipe handler for type kubejs:shapeless
+[15:52:49] [main/INFO]: Registered custom recipe handler for type minecraft:crafting_shaped
+[15:52:49] [main/INFO]: Registered custom recipe handler for type minecraft:crafting_shapeless
+[15:52:49] [main/INFO]: Registered custom recipe handler for type minecraft:stonecutting
+[15:52:49] [main/INFO]: Registered custom recipe handler for type minecraft:smelting
+[15:52:49] [main/INFO]: Registered custom recipe handler for type minecraft:blasting
+[15:52:49] [main/INFO]: Registered custom recipe handler for type minecraft:smoking
+[15:52:49] [main/INFO]: Registered custom recipe handler for type minecraft:campfire_cooking
+[15:52:49] [main/INFO]: Registered custom recipe handler for type minecraft:smithing
+[15:52:49] [main/INFO]: Registered custom recipe handler for type cucumber:shaped_no_mirror
+[15:52:49] [main/INFO]: Registered custom recipe handler for type mysticalagriculture:tag
+[15:52:49] [main/INFO]: Registered custom recipe handler for type integrateddynamics:squeezer
+[15:52:49] [main/INFO]: Registered custom recipe handler for type integrateddynamics:mechanical_squeezer
+[15:52:49] [main/INFO]: Registered custom recipe handler for type ars_nouveau:enchanting_apparatus
+[15:52:49] [main/INFO]: Registered custom recipe handler for type ars_nouveau:enchantment
+[15:52:49] [main/WARN]: Failed to register handler for recipe type ars_nouveau:glyph_recipe as it doesn't exist!
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:sequenced_assembly
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:mechanical_crafting
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:conversion
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:crushing
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:cutting
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:milling
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:basin
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:mixing
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:compacting
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:pressing
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:sandpaper_polishing
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:splashing
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:haunting
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:deploying
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:filling
+[15:52:49] [main/INFO]: Registered custom recipe handler for type create:emptying
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:turn_and_copy
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:alloy
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:blast_furnace
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:blast_furnace_fuel
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:coke_oven
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:cloche
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:fertilizer
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:metal_press
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:arc_furnace
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:crusher
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:sawmill
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:squeezer
+[15:52:49] [main/INFO]: Registered custom recipe handler for type immersiveengineering:mixer
+[15:52:49] [main/INFO]: Scanning recipes...
+[15:52:49] [main/INFO]: Reloading ResourceManager: KubeJS Virtual Data Pack [low priority], Default, supermartijn642configlib-1.0.9-mc1.18.jar, AdditionalEnchantedMiner-1.18.1-18.5.jar, simplemagnets-1.1.4-mc1.18.jar, IntegratedTerminals-1.18.1-1.2.11.jar, mcw-windows-2.0.2-mc1.18.1.jar, windowlogging-mc1.18.1_v0.0.8.jar, modnametooltip-1.18.1-1.18.0.jar, IronJetpacks-1.18.1-5.0.2.jar, CTM-1.18-1.1.3+1.jar, rangedpumps-0.9.0.jar, WitherSkeletonTweaks-1.18.1-7.0.1.jar, Shrink-1.18.1-1.3.0.jar, Apotheosis-1.18.1-5.0.0.jar, clickadv-1.18-2.0.jar, balm-2.4.1+0.jar, WaterStrainer-1.18-12.1.0.jar, JustEnoughResources-1.18.1-0.13.1.141.jar, cloth-config-6.1.50-forge.jar, shetiphiancore-1.18-3.10.2.jar, supplementaries-1.18.1-1.1.11.jar, refinedstorage-1.10.0-beta.4.jar, structure_gel-1.18.1-2.1.2.jar, alltheores-1.7.9-1.18.1-39.0.0.jar, cleancut-mc1.18-3.0-forge.jar, torchmaster-18.0.3-beta.jar, repurposed_structures_forge-4.2.5+1.18.1.jar, BiomesOPlenty-1.18.1-15.0.0.105-universal.jar, ironfurnaces-1.18.1-3.1.3.jar, mcw-trapdoors-1.0.4-mc1.18.1.jar, silent-gear-1.18.1-2.8.6.jar, supermartijn642corelib-1.0.16a-mc1.18.jar, spark-forge.jar, curios-forge-1.18.1-5.0.6.0.jar, corail_woodcutter-1.18-2.2.1.jar, angelring-1.18.1-2.0.0.alpha.2.jar, tombstone-7.3.6-1.18.jar, ExtraStorage-1.18.1-2.0.1.jar, NaturesAura-35.4.jar, constructionwand-1.18.1-2.6.jar, mcw-roofs-2.1.0-mc1.18.1.jar, furniture-7.0.0-pre27-1.18.1.jar, toms_storage-1.18-1.2.23.jar, FastLeafDecay-27.2.jar, geckolib-1.18-forge-3.0.9.jar, mcw-lights-1.0.2-mc1.18.1.jar, Kiwi-1.18-forge-5.2.3.jar, clienttweaks-forge-1.18-7.0.0.jar, nomowanderer-1.18.1_1.0.jar, treeharvester_1.18.1-4.2.jar, jei-1.18.1-9.2.3.82.jar, tesseract-1.0.24-mc1.18.jar, caelus-forge-1.18-3.0.0.1.jar, AllTheCompressed-1.0.2-1.18.1-39.0.59.jar, NaturesCompass-1.18.1-1.9.4-forge.jar, LibX-1.18.1-3.1.8.jar, compactmachines-4.0.0-beta.4.jar, phosphophyllite-1.18.1-0.6.0-beta.0.1.jar, curioofundying-forge-1.18-5.3.0.0.jar, farmingforblockheads-forge-1.18.1-9.0.3.jar, ClickMachine-1.18.1-6.0.1.jar, catalogue-1.6.0-1.18.1.jar, ExtraDisks-1.18.1-2.0.2.jar, ironchest-1.18-13.0.7.jar, IntegratedCrafting-1.18.1-1.0.20.jar, DungeonsArise-1.18.1-2.1.49c-beta.jar, logprot-1.18-1.4.jar, theoneprobe-1.18-5.0.3.jar, appliedenergistics2-10.0.1.jar, AEInfinityBooster-1.18.1-1.0.0+3.jar, TerraBlender-forge-1.18.1-1.1.0.73.jar, MouseTweaks-forge-mc1.18-2.21.jar, ImmersiveEngineering-1.18.1-7.1.0-145.jar, blockydoors-1.18-1.0.0.jar, SaveYourPets-1.18-1.0.0.6.jar, allthemodium-1.7.0-pre22-1.18.1-39.0.10.jar, domum_ornamentum-1.18.1-1.0.39-ALPHA-universal.jar, pipez-1.18.1-1.0.1.jar, flywheel-forge-1.18-0.5.1.jar, IntegratedDynamics-1.18.1-1.10.6.jar, itemcollectors-1.1.4-mc1.18.jar, Croptopia-1.18-FORGE-1.8.0.jar, baubley-heart-canisters-1.18-1.0.0.jar, polymorph-forge-1.18.1-0.36.jar, JustEnoughProfessions-1.18-1.2.2.jar, [1.18.1] SecurityCraft v1.9.0.2-beta1.jar, mna-1.7.0.1.jar, structurize-1.18.1-1.0.335-ALPHA.jar, norecipeadvancements-2.0.0.jar, FastFurnace-1.18.1-6.0.1.jar, lootr-1.18-0.1.14.44.jar, connectedglass-1.1.1-mc1.18.jar, occultism-1.18.1-1.25.5.jar, PuzzlesLib-v3.1.3-1.18.1-Forge.jar, allthetweaks-1.8.3-1.18.1-39.0.0.jar, CosmeticArmorReworked-1.18.1-v1a.jar, xptome-1.18-2.1.3.jar, hexerei-0.1.13.jar, CyclopsCore-1.18.1-1.13.0.jar, blue_skies-1.18.1-1.3.2.jar, no_null_processors_forge-2.0.2+1.18.1.jar, netherportalfix-forge-1.18-9.0.0.jar, advancedperipherals-1.18.1-0.7.8.1r.jar, tinyredstone-1.18-3.1.1.jar, curiousshulkerboxes-forge-1.18.1-4.2.0.0.jar, UtilitiX-1.18.1-0.3.7.jar, rsgauges-1.18.1-1.2.13.jar, glassential-forge-1.18-1.2.1.jar, TerraForged-1.18.1-0.3.0-alpha-2.jar, cookingforblockheads-forge-1.18.1-11.1.0.jar, Placebo-1.18.1-6.0.4.jar, citadel-1.10.8-1.18.jar, alexsmobs-1.16.0.jar, potionsmaster-0.5.2-1.18.1-39.0.19.jar, feature_nbt_deadlock_be_gone_forge-1.0.0+1.18.1.jar, sophisticatedbackpacks-1.18.1-3.15.1.505.jar, PatinaPipeworks-1.18.1-1.0.6-universal.jar, buildinggadgets-3.10.1-build.3+mc1.18.jar, FramedBlocks-4.1.0.jar, forge-1.18.1-39.0.43-universal.jar, PassthroughSigns-1.18-2.5.0.jar, appleskin-forge-mc1.18-2.2.0.jar, Aquaculture-1.18.1-2.3.2.jar, mcw-doors-1.0.5-mc1.18.1.jar, LightingWand-1.18-forge-3.0.0.jar, jeed-1.18-1.6.jar, FpsReducer-forge-1.25-mc1.18.jar, Beyond-Earth-1.18.1-6.0b.jar, absentbydesign-1.18-1.6.0.jar, mob_grinding_utils-1.18.1-0.4.33.jar, chipped-1.18.1-1.2.1-forge.jar, mcw-bridges-2.0.1-mc1.18.1.jar, HostileNeuralNetworks-1.18.1-3.0.5.jar, entangled-1.3.10-mc1.18.jar, endertanks-1.18-1.11.1.jar, CommonCapabilities-1.18.1-2.8.1.jar, crashutilities-4.0.jar, mcw-fences-1.0.2-mc1.18.1.jar, wirelesschargers-1.0.3a-mc1.18.jar, simplylight-1.18.1-1.4.0-build.26.jar, Patchouli-1.18.1-64.jar, ars_nouveau-1.18.1-2.1.1.jar, blockui-1.18-0.0.40-ALPHA.jar, multi-piston-1.18-1.2.2-ALPHA.jar, collective-1.18.1-3.8.jar, OreExcavation-1.10.159.jar, villagertools-1.18-1.0.2.jar, IntegratedTunnels-1.18.1-1.8.9.jar, MysticalCustomization-1.18.1-3.0.0.jar, elevatorid-1.18-1.8.3.jar, architectury-3.4.9.jar, ftb-library-forge-1801.3.5-build.109.jar, ftb-teams-forge-1801.2.4-build.46.jar, curiouselytra-forge-1.18.1-5.0.1.0.jar, cc-tweaked-1.18.1-1.100.2.jar, AI-Improvements-1.18-0.4.0.jar, productivebees-1.18.1-0.8.0.6.jar, trashcans-1.0.12-mc1.18.jar, inventoryessentials-forge-1.18-4.0.0.jar, voidtotem-forge-1.18.1-1.1.0.jar, TradingPost-v3.1.2-1.18.1-Forge.jar, inventorysorter-1.18-19.0.0.jar, rhino-forge-1800.1.7-build.94.jar, biggerreactors-1.18.1-0.6.0-beta.0.2.jar, RootsClassic-1.18.1-1.1.17.jar, Cucumber-1.18.1-5.0.2.jar, trashslot-forge-1.18-11.0.0.jar, jmi-1.18.1-0.7-36.jar, additionallanterns-1.0.0-mc1.18.jar, platforms-1.18-1.9.1.jar, tinygates-2.0.0.jar, reap-1.18.1-1.0.0.jar, create-mc1.18.1_v0.4c.jar, waystones-forge-1.18.1-9.0.3.jar, mcw-paintings-1.0.2-mc1.18.1.jar, FastSuite-1.18.1-3.0.0.jar, Clumps-forge-1.18.1-8.0.0+5.jar, journeymap-1.18.1-5.8.0beta11.jar, comforts-forge-1.18-5.0.0.1.jar, artifacts-1.18.1-4.0.2.jar, SimpleStorageNetwork-1.18.1-1.5.2.jar, configured-1.5.1-1.18.1.jar, DimStorage-1.18.1-6.0.0.jar, MyServerIsCompatible-1.18-1.0.jar, DungeonCrawl-1.18.1-2.3.6.jar, charginggadgets-1.5.0.jar, lazydfu-1.0-1.18+.jar, mcjtylib-1.18-6.0.7.jar, rftoolsbase-1.18-3.0.3.jar, xnet-1.18-4.0.3.jar, rftoolspower-1.18-4.0.3.jar, rftoolsbuilder-1.18-4.0.5.jar, rftoolsstorage-1.18-3.0.5.jar, rftoolscontrol-1.18-5.0.1.jar, ExplorersCompass-1.18.1-1.1.2-forge.jar, mahoutsukai-1.18.1-v1.34.2.jar, mininggadgets-1.10.2.jar, ftb-chunks-forge-1801.3.4-build.121.jar, kubejs-forge-1801.4.1-build.271.jar, kubejs-create-1801.2.0-build.14.jar, kubejs-immersive-engineering-1801.2.0-build.29.jar, selene-1.18-1.12.0.jar, MysticalAgriculture-1.18.1-5.0.1.jar, MysticalAgradditions-1.18.1-5.0.2.jar, craftingtweaks-forge-1.18.1-14.0.2.jar, rftoolsutility-1.18-4.0.6.jar, silent-lib-1.18-6.0.0.jar, Iceberg-1.18.1-1.0.33.jar, FastWorkbench-1.18.1-6.0.0.jar, Beyond-Earth-Giselle-Addon-1.18.1-1.5.jar, StorageDrawers-1.18.1-10.1.1.jar, enderchests-1.18-1.9.0.jar, quartz-1.18.1-0.0.0-beta.0.1.jar, minecolonies-1.18.1-1.0.368-ALPHA.jar, pylons-2.0.6.jar, creeperoverhaul-1.18.1-0.2.0-forge.jar, ferritecore-4.0.0-forge.jar, engineersdecor-1.18.1-1.1.19-b3.jar, SoL-Carrot-1.18.1-1.12.0.jar, moredragoneggs-3.1.jar, modular-routers-1.18.1-9.0.1-79.jar, enhancedcelestials-2.0.9-1.18.jar, refinedstorageaddons-0.8.1.jar, expandability-5.0.0-forge.jar, createaddition-1.18.1-20220111b.jar, KubeJS Resource Pack [data], KubeJS Virtual Data Pack [high priority]
+[15:52:49] [Worker-Main-2/INFO]: [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[15:52:49] [Worker-Main-6/INFO]: [block_entity_types] Found 3 tags, added 0 objects, removed 0 objects
+[15:52:49] [Worker-Main-3/INFO]: [mob_effects] Found 1 tags, added 0 objects, removed 0 objects
+[15:52:50] [Worker-Main-4/INFO]: [fluids] Found 32 tags, added 0 objects, removed 0 objects
+[15:52:50] [Worker-Main-4/ERROR]: Couldn't load tag forge:superheated_sodium as it is missing following references: biggerreactors:superheated_sodium (from biggerreactors-1.18.1-0.6.0-beta.0.2.jar)
+[15:52:50] [Worker-Main-7/INFO]: [entity_types] Found 76 tags, added 0 objects, removed 0 objects
+[15:52:50] [Worker-Main-6/INFO]: [potions] Found 0 tags, added 0 objects, removed 0 objects
+[15:52:50] [Worker-Main-2/INFO]: [game_events] Found 2 tags, added 0 objects, removed 0 objects
+[15:52:50] [Worker-Main-3/INFO]: [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[15:52:50] [Worker-Main-2/INFO]: [functions] Found 0 tags, added 0 objects, removed 0 objects
+[15:52:51] [Worker-Main-8/INFO]: [blocks] Found 970 tags, added 20 objects, removed 0 objects
+[15:52:51] [Worker-Main-8/ERROR]: Couldn't load tag rsgauges:soils as it is missing following references: minecraft:grass_path (from rsgauges-1.18.1-1.2.13.jar)
+[15:52:52] [Worker-Main-5/INFO]: [items] Found 1908 tags, added 17 objects, removed 2 objects
+[15:52:59] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/triangle
+[15:52:59] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/square
+[15:52:59] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/circle
+[15:52:59] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/backslash
+[15:52:59] [Worker-Main-6/WARN]: Recipe mna:multiblock/test_multiblock does not define a tier, defaulting to 1.
+[15:52:59] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/inverted_split_triangle
+[15:52:59] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/star
+[15:53:00] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/hourglass
+[15:53:00] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/inverted_triangle
+[15:53:00] [Worker-Main-6/WARN]: Recipe mna:multiblock/eldrin_altar does not define a tier, defaulting to 1.
+[15:53:00] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/knot4
+[15:53:00] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/knot2
+[15:53:00] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/knot3
+[15:53:00] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/diamond
+[15:53:00] [Worker-Main-6/WARN]: Failed to parse recipe 'createaddition:mechanical_crafting/overcharged_hammer[create:mechanical_crafting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'createaddition:overcharged_alloy'
+[15:53:00] [Worker-Main-6/WARN]: Failed to parse recipe createaddition:mechanical_crafting/overcharged_hammer[create:mechanical_crafting]: com.google.gson.JsonSyntaxException: Unknown item 'createaddition:overcharged_alloy'
+[15:53:00] [Worker-Main-6/WARN]: Recipe mna:multiblock/wellspring_capture does not define a tier, defaulting to 1.
+[15:53:00] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/slash
+[15:53:00] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/infinity
+[15:53:00] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/split_triangle
+[15:53:00] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/knot
+[15:53:00] [Worker-Main-6/INFO]: Found 17648 recipes and 0 failed recipes in 1.415 s
+[15:53:05] [Worker-Main-6/INFO]: Posted recipe events in 4.756 s
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/triangle
+[15:53:05] [Worker-Main-6/WARN]: Error parsing recipe immersiveengineering:mixer/herbicide[immersiveengineering:mixer]: {"type":"immersiveengineering:mixer","inputs":[{"tag":"forge:dusts/saltpeter"},{"tag":"forge:dusts/copper"}],"result":{"fluid":"immersiveengineering:herbicide","amount":500},"fluid":{"tag":"forge:ethanol","amount":500},"energy":3200}: java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because "name" is null
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/square
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/circle
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/backslash
+[15:53:05] [Worker-Main-6/WARN]: Error parsing recipe beyond_earth_giselle_addon:rolling/iron_plate[beyond_earth_giselle_addon:rolling]: {"type":"beyond_earth_giselle_addon:rolling","input":{"tag":"forge:ingots/iron"},"output":{"item":"beyond_earth:iron_plate","count":1},"cookTime":200}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
+[15:53:05] [Worker-Main-6/WARN]: Recipe mna:multiblock/test_multiblock does not define a tier, defaulting to 1.
+[15:53:05] [Worker-Main-6/WARN]: Error parsing recipe beyond_earth:generating/coal_coke[beyond_earth:generating]: {"type":"beyond_earth:generating","conditions":[{"value":{"tag":"forge:coal_coke","type":"forge:tag_empty"},"type":"forge:not"}],"input":{"tag":"forge:coal_coke"},"burnTime":800}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/inverted_split_triangle
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/star
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/hourglass
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/inverted_triangle
+[15:53:05] [Worker-Main-6/WARN]: Error parsing recipe beyond_earth:compressing/compressed_steel[beyond_earth:compressing]: {"type":"beyond_earth:compressing","input":{"tag":"forge:ingots/steel"},"output":{"item":"beyond_earth:compressed_steel","count":1},"cookTime":200}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
+[15:53:05] [Worker-Main-6/WARN]: Recipe mna:multiblock/eldrin_altar does not define a tier, defaulting to 1.
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/knot4
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/knot2
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/knot3
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/diamond
+[15:53:05] [Worker-Main-6/WARN]: Recipe mna:multiblock/wellspring_capture does not define a tier, defaulting to 1.
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/slash
+[15:53:05] [Worker-Main-6/WARN]: Error parsing recipe beyond_earth_giselle_addon:extruding/iron_stick[beyond_earth_giselle_addon:extruding]: {"type":"beyond_earth_giselle_addon:extruding","input":{"tag":"forge:ingots/iron"},"output":{"item":"beyond_earth:iron_stick","count":2},"cookTime":50}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/infinity
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/split_triangle
+[15:53:05] [Worker-Main-6/INFO]: Received new training data for mna:manaweave_patterns/knot
+[15:53:05] [Worker-Main-6/INFO]: Modified & removed recipes in 353.1 ms
+[15:53:05] [Worker-Main-6/INFO]: Added recipes in 22.25 ms
+[15:53:05] [Worker-Main-6/INFO]: Added 247 recipes, removed 328 recipes, modified 3237 recipes, with 5 failed recipes and 0 fall-backed recipes
+[15:53:06] [Worker-Main-6/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[15:53:07] [Worker-Main-6/ERROR]: Couldn't parse loot table dungeons_arise:chests/pillager_palace_supply
+com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:112) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.functions.SetContainerLootTable$Serializer.m_6821_(SetContainerLootTable.java:97) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.functions.SetContainerLootTable$Serializer.m_6821_(SetContainerLootTable.java:81) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:99) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:88) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:932) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1003) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.8.jar%2322!:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:466) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:932) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1003) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.8.jar%2322!:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:456) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:932) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1003) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.8.jar%2322!:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:466) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:255) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:932) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1003) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.8.jar%2322!:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:798) ~[forge-1.18.1-39.0.43-universal.jar%23266!:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.applyKJS0(LootTablesKJS.java:38) ~[kubejs-forge-1801.4.1-build.271.jar%23154!:1801.4.1-build.271]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zfm000$applyKJS(LootTables.java:1021) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:39) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:17) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:53) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:50) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[15:53:07] [Worker-Main-6/INFO]: Injecting loot table 'silentgear:inject/chests/bastion_bridge' into 'minecraft:chests/bastion_bridge'
+[15:53:07] [Worker-Main-6/ERROR]: Couldn't parse loot table dungeons_arise:chests/pillager_palace_treasure
+com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:112) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.functions.SetContainerLootTable$Serializer.m_6821_(SetContainerLootTable.java:97) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.functions.SetContainerLootTable$Serializer.m_6821_(SetContainerLootTable.java:81) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:99) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:88) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:932) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1003) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.8.jar%2322!:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:466) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:932) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1003) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.8.jar%2322!:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:456) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:932) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1003) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.8.jar%2322!:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:448) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:466) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:255) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:932) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1003) ~[gson-2.8.8.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.8.jar%2322!:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:798) ~[forge-1.18.1-39.0.43-universal.jar%23266!:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.applyKJS0(LootTablesKJS.java:38) ~[kubejs-forge-1801.4.1-build.271.jar%23154!:1801.4.1-build.271]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zfm000$applyKJS(LootTables.java:1021) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:39) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:17) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:71) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:70) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:53) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:50) ~[server-1.18.1-20211210.034407-srg.jar%23262!:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[15:53:10] [Worker-Main-6/INFO]: Injecting loot table 'silentgear:inject/chests/bastion_other' into 'minecraft:chests/bastion_other'
+[15:53:11] [Worker-Main-6/INFO]: Injecting loot table 'silentgear:inject/chests/ruined_portal' into 'minecraft:chests/ruined_portal'
+[15:53:12] [Worker-Main-6/INFO]: Injecting loot table 'silentgear:inject/chests/bastion_treasure' into 'minecraft:chests/bastion_treasure'
+[15:53:12] [Worker-Main-6/INFO]: Injecting loot table 'silentgear:inject/chests/nether_bridge' into 'minecraft:chests/nether_bridge'
+[15:53:13] [Worker-Main-6/INFO]: Injecting loot table 'silentgear:inject/entities/spider' into 'minecraft:entities/spider'
+[15:53:13] [Worker-Main-6/INFO]: Injecting loot table 'silentgear:inject/entities/cave_spider' into 'minecraft:entities/cave_spider'
+[15:53:14] [Worker-Main-6/INFO]: Registered 3 additional loot tables.
+[15:53:14] [Worker-Main-6/INFO]: Loaded 1117 advancements
+[15:53:14] [Worker-Main-6/INFO]: Skipped loading 8128 recipe advancements.
+[15:53:14] [Worker-Main-6/INFO]: Registered 18 additional recipes.
+[15:53:15] [Worker-Main-6/INFO]: Reloading trait files
+[15:53:15] [Worker-Main-6/INFO]: Registered condition serializer 'silentgear:not'
+[15:53:15] [Worker-Main-6/INFO]: Registered condition serializer 'silentgear:and'
+[15:53:15] [Worker-Main-6/INFO]: Registered condition serializer 'silentgear:or'
+[15:53:15] [Worker-Main-6/INFO]: Registered condition serializer 'silentgear:gear_type'
+[15:53:15] [Worker-Main-6/INFO]: Registered condition serializer 'silentgear:material_count'
+[15:53:15] [Worker-Main-6/INFO]: Registered condition serializer 'silentgear:material_ratio'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:simple_trait'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:damage_type'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:durability'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:enchantment'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:nbt'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:wielder_effect'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:stat_modifier'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:attribute'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:block_placer'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:block_filler'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:synergy'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:target_effect'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:bonus_drops'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:cancel_effects'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:self_repair'
+[15:53:15] [Worker-Main-6/INFO]: Registered serializer 'silentgear:stellar'
+[15:53:15] [Worker-Main-6/INFO]: Registered 68 traits
+[15:53:15] [Worker-Main-6/INFO]: Reloading part files
+[15:53:15] [Worker-Main-6/INFO]: Registered part serializer 'silentgear:compound_part'
+[15:53:15] [Worker-Main-6/INFO]: Registered part serializer 'silentgear:misc_upgrade'
+[15:53:15] [Worker-Main-6/INFO]: Registered 44 parts
+[15:53:15] [Worker-Main-6/INFO]: Reloading material files
+[15:53:15] [Worker-Main-6/INFO]: Registered material serializer 'silentgear:standard'
+[15:53:15] [Worker-Main-6/INFO]: Registered material serializer 'silentgear:compound'
+[15:53:15] [Worker-Main-6/INFO]: Registered material serializer 'silentgear:custom_compound'
+[15:53:15] [Worker-Main-6/INFO]: Registered material serializer 'silentgear:crafted'
+[15:53:15] [Worker-Main-6/WARN]: Material 'silentgear:high_carbon_steel' has no model in the data file. This may be an outdated data pack or mod.
+[15:53:15] [Worker-Main-6/INFO]: Skipped loading 10 material(s), as their conditions were not met. This is usually NOT an error!
+[15:53:15] [Worker-Main-6/INFO]: Skipped materials: silentgear:aluminum_steel, silentgear:bismuth, silentgear:bismuth_brass, silentgear:bismuth_steel, silentgear:compressed_iron, silentgear:redstone_alloy, silentgear:refined_glowstone, silentgear:refined_iron, silentgear:refined_obsidian, silentgear:titanium
+[15:53:16] [Worker-Main-6/INFO]: Registered material modifier silentgear:grade
+[15:53:16] [Worker-Main-6/INFO]: Registered material modifier silentgear:starcharged
+[15:53:16] [Worker-Main-6/INFO]: Finished recipe profiler for Arc Recycling, took 664 milliseconds
+[15:53:16] [Worker-Main-6/INFO]: Loaded 8 tool_handle_types
+[15:53:16] [Worker-Main-6/INFO]: Loaded 37 snowcap_oven_freezing_recipes
+[15:53:16] [Worker-Main-6/INFO]: Loaded 7 horizonite_forge_fuels
+[15:53:16] [Worker-Main-6/INFO]: Loaded 12 snowcap_mushroom_freezing
+[15:53:16] [Worker-Main-6/INFO]: Loaded 70 alchemy_recipes
+[15:53:16] [Worker-Main-6/INFO]: Loaded 81 journal/entries
+[15:53:16] [Worker-Main-6/INFO]: Loaded 3 journal/sections
+[15:53:16] [Worker-Main-6/INFO]: Loaded 7 journal/requirements
+[15:53:16] [Worker-Main-6/INFO]: Beginning loading of data for data loader: tiny_block_overrides
+[15:53:16] [Worker-Main-6/INFO]: Data loader for tiny_block_overrides loaded 1 jsons
+[15:53:17] [Worker-Main-6/INFO]: Loaded 20 turtle upgrades
+[15:53:17] [Worker-Main-6/INFO]: Loaded 7 pocket computer upgrades
+[15:53:17] [Worker-Main-6/INFO]: Loading data...
+[15:53:19] [Worker-Main-6/INFO]: Done.
+[15:53:19] [Worker-Main-6/INFO]: Beginning load of custom recipes for colony workers
+[15:53:19] [Worker-Main-6/INFO]: Loaded 122 recipes for 13 crafters
+[15:53:19] [Worker-Main-6/INFO]: Beginning load of research for University.
+[15:53:19] [Worker-Main-6/INFO]: Loaded 184 recipes for 4 research branches
+[15:53:19] [Worker-Main-6/INFO]: Loaded 14 jetpack type(s) in 6 ms
+[15:53:19] [Worker-Main-6/INFO]: Loaded 13 normal and 13 rare Wandering Trader trade options.
+[15:53:19] [Worker-Main-6/INFO]: Loaded cucumber-tags.json in 0 ms
+[15:53:19] [Worker-Main-6/INFO]: Recipes for potions: apotheosis:haste, potionsmaster:aluminium_sight, potionsmaster:bismuth_sight, minecraft:long_slowness, apotheosis:wither, potionsmaster:unobtainium_sight, minecraft:regeneration, potionsmaster:allthemodium_sight, minecraft:long_slow_falling, minecraft:invisibility, minecraft:strong_harming, alexsmobs:long_lava_vision, alexsmobs:long_poison_resistance, minecraft:strength, alexsmobs:soulsteal, minecraft:strong_regeneration, minecraft:turtle_master, alexsmobs:bug_pheromones, apotheosis:long_sundering, potionsmaster:tin_sight, apotheosis:strong_haste, minecraft:mundane, apotheosis:strong_sundering, minecraft:long_weakness, alexsmobs:knockback_resistance, apotheosis:strong_wither, minecraft:fire_resistance, minecraft:swiftness, mna:light_mana_potion, minecraft:awkward, potionsmaster:lead_sight, minecraft:long_night_vision, potionsmaster:crimsoniron_sight, minecraft:strong_leaping, minecraft:strong_poison, minecraft:strong_turtle_master, potionsmaster:copper_sight, apotheosis:long_knowledge, minecraft:long_poison, minecraft:leaping, apotheosis:knowledge, alexsmobs:poison_resistance, minecraft:strong_slowness, minecraft:strong_strength, alexsmobs:long_knockback_resistance, potionsmaster:uranium_sight, minecraft:long_fire_resistance, apotheosis:long_fatigue, minecraft:strong_healing, mna:superior_mana_potion, potionsmaster:emerald_sight, minecraft:long_invisibility, apotheosis:long_haste, ars_nouveau:spell_damage_strong, ars_nouveau:mana_regen_potion_strong, alexsmobs:strong_soulsteal, potionsmaster:redstone_sight, apotheosis:strong_resistance, potionsmaster:netherite_sight, minecraft:water_breathing, potionsmaster:lapis_sight, minecraft:healing, ars_nouveau:spell_damage_long, apotheosis:strong_fatigue, alexsmobs:long_soulsteal, mna:greater_mana_potion, minecraft:long_regeneration, minecraft:slow_falling, minecraft:long_swiftness, apotheosis:fatigue, mna:mana_potion, minecraft:strong_swiftness, apotheosis:strong_knowledge, apotheosis:long_resistance, potionsmaster:vibranium_sight, apotheosis:sundering, minecraft:long_leaping, minecraft:harming, apotheosis:strong_absorption, minecraft:long_water_breathing, potionsmaster:osmium_sight, minecraft:water, alexsmobs:long_bug_pheromones, ars_nouveau:mana_regen_potion, alexsmobs:lava_vision, potionsmaster:nickel_sight, alexsmobs:long_clinging, potionsmaster:gold_sight, minecraft:long_strength, apotheosis:absorption, minecraft:long_turtle_master, minecraft:night_vision, ars_nouveau:mana_regen_potion_long, alexsmobs:strong_knockback_resistance, minecraft:weakness, apotheosis:long_wither, alexsmobs:speed_iii, potionsmaster:quartz_sight, minecraft:poison, potionsmaster:platinum_sight, alexsmobs:clinging, mna:minor_mana_potion, minecraft:slowness, apotheosis:resistance, minecraft:luck, potionsmaster:silver_sight, potionsmaster:coal_sight, potionsmaster:diamond_sight, ars_nouveau:spell_damage, potionsmaster:zinc_sight, apotheosis:long_absorption, potionsmaster:iron_sight
+[15:53:19] [Worker-Main-6/INFO]: Successfully processed 17628 recipes into the AuxRecipeManager.
+[15:53:27] [main/INFO]: Tags Loaded
+[15:53:27] [main/INFO]: Loading reactor moderators
+[15:53:27] [main/INFO]: Loaded 52 moderator data entries
+[15:53:27] [main/INFO]: Loaded 43 moderator entries
+[15:53:27] [main/INFO]: Loading turbine coils
+[15:53:27] [main/INFO]: Loaded 15 coil data entries
+[15:53:27] [main/INFO]: Loaded 22 coil entries
+[15:53:27] [main/INFO]: Loading fluid transitions
+[15:53:27] [main/INFO]: Loaded 6 transitions data entries
+[15:53:28] [main/INFO]: Loaded 2 liquid transition entries
+[15:53:28] [main/INFO]: Loaded 2 gas transition entries
+[15:53:30] [main/INFO]: Loading world-gen registry content from data
+[15:53:41] [main/INFO]: Using original world generation settings
+[15:53:45] [main/INFO]: Using original world generation settings
+[15:53:46] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[15:53:46] [Server thread/INFO]: Loading properties
+[15:53:46] [Server thread/INFO]: Default game type: SURVIVAL
+[15:53:46] [Server thread/INFO]: Generating keypair
+[15:53:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:53:46] [Server thread/INFO]: Using default channel type
+[15:53:47] [Server thread/INFO]: Loading server config for tradingpost
+[15:53:47] [Thread-0/INFO]: Reloading server config for tradingpost
+[15:53:47] [Server thread/INFO]: Loading JourneyMap Forge Configs
+[15:53:47] [Thread-0/WARN]: Updated logging config. RS Debug logging enabled: false
+[15:53:47] [Thread-0/INFO]: Config file changed engineersdecor-server.toml
+[15:53:48] [Server thread/INFO]: Loaded FTB Teams - 0 known players
+[15:53:51] [Server thread/INFO]: Preparing level "world"
+[15:53:51] [Server thread/ERROR]: Adding duplicate key 'ResourceKey[minecraft:dimension / blue_skies:everbright]' to registry
+[15:53:51] [Server thread/ERROR]: Adding duplicate key 'ResourceKey[minecraft:dimension / blue_skies:everdawn]' to registry
+[15:53:52] [Server thread/ERROR]: "enhancedcelestials:harvest_moon_crops" is not a valid item tag!
+[15:53:52] [Server thread/ERROR]: "enhancedcelestials:harvest_moon_crops" is not a valid item tag!
+[15:53:52] [Server thread/INFO]: Tags Loaded
+[15:53:52] [Server thread/INFO]: Loading Teams Data
+[15:53:52] [Server thread/INFO]: Finished Loading Teams Data
+[15:53:53] [Server thread/WARN]: Configuration file E:\Desktop\ATM-server-files\server-files\SIMPLE-SERVER-FILES-0.2.35\setup\config\ironfurnaces.toml is not correct. Correcting
+[15:53:53] [Server thread/WARN]: Incorrect key modded_furnaces was corrected from SimpleCommentedConfig:{vibranium_furnace=SimpleCommentedConfig:{mult=32, speed=3}, allthemodium_furnace=SimpleCommentedConfig:{mult=16, speed=5}, unobtanium_furnace=SimpleCommentedConfig:{mult=64, speed=1}} to its default, null. 
+[15:53:53] [Server thread/WARN]: Incorrect key updates was corrected from SimpleCommentedConfig:{check_updates=SimpleCommentedConfig:{updates=true}} to its default, null. 
+[15:53:53] [Server thread/WARN]: Incorrect key furnaces was corrected from SimpleCommentedConfig:{iron_furnace=SimpleCommentedConfig:{speed=160}, obsidian_furnace=SimpleCommentedConfig:{speed=20}, recipe_cache=10, crystal_furnace=SimpleCommentedConfig:{speed=40}, netherite_furnace=SimpleCommentedConfig:{speed=5}, diamond_furnace=SimpleCommentedConfig:{speed=80}, copper_furnace=SimpleCommentedConfig:{speed=180}, furance_xp_drop=SimpleCommentedConfig:{value=10, value_two=100000}, emerald_furnace=SimpleCommentedConfig:{speed=40}, silver_furnace=SimpleCommentedConfig:{speed=140}, rainbow_furnace=SimpleCommentedConfig:{speed=20}, gold_furnace=SimpleCommentedConfig:{speed=120}} to its default, null. 
+[15:53:53] [Server thread/WARN]: Incorrect key jei was corrected from SimpleCommentedConfig:{jei=SimpleCommentedConfig:{enable_jei_click_area=true, enable_jei_catalysts=true, enable_jei=true}} to its default, null. 
+[15:53:53] [Server thread/WARN]: Incorrect key misc was corrected from SimpleCommentedConfig:{misc=SimpleCommentedConfig:{rainbow=true, errors=false}} to its default, null. 
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/INFO]: Generating in dimension: minecraft:overworld
+[15:53:53] [Server thread/INFO]: Dungeons generate in the following biomes of minecraft:overworld : minecraft:windswept_savanna minecraft:jungle biomesoplenty:muskeg minecraft:desert terraforged:oak_forest biomesoplenty:pasture biomesoplenty:bog biomesoplenty:volcano minecraft:meadow hexerei:willow_swamp biomesoplenty:boreal_forest biomesoplenty:wooded_scrubland biomesoplenty:mystic_grove biomesoplenty:old_growth_dead_forest biomesoplenty:cherry_blossom_grove biomesoplenty:snowy_maple_woods biomesoplenty:old_growth_woodland biomesoplenty:wetland minecraft:ice_spikes minecraft:windswept_forest biomesoplenty:maple_woods minecraft:sparse_jungle biomesoplenty:dryland biomesoplenty:redwood_forest minecraft:flower_forest biomesoplenty:coniferous_forest minecraft:savanna_plateau biomesoplenty:snowy_coniferous_forest biomesoplenty:rainbow_hills minecraft:jagged_peaks biomesoplenty:mediterranean_forest minecraft:taiga minecraft:stony_peaks integrateddynamics:meneglin biomesoplenty:bamboo_grove biomesoplenty:marsh biomesoplenty:fir_clearing minecraft:plains biomesoplenty:jade_cliffs minecraft:frozen_peaks minecraft:grove biomesoplenty:lush_desert biomesoplenty:rocky_shrubland biomesoplenty:scrubland minecraft:old_growth_pine_taiga biomesoplenty:snowy_fir_clearing minecraft:badlands minecraft:snowy_taiga biomesoplenty:lavender_forest biomesoplenty:prairie biomesoplenty:ominous_woods biomesoplenty:wooded_wasteland biomesoplenty:woodland minecraft:savanna biomesoplenty:orchard biomesoplenty:highland_moor biomesoplenty:bayou biomesoplenty:rocky_rainforest minecraft:windswept_gravelly_hills biomesoplenty:rainforest minecraft:old_growth_birch_forest biomesoplenty:wasteland minecraft:old_growth_spruce_taiga minecraft:wooded_badlands biomesoplenty:grassland minecraft:snowy_slopes minecraft:swamp biomesoplenty:floodplain biomesoplenty:lush_savanna biomesoplenty:lavender_field biomesoplenty:forested_field minecraft:windswept_hills biomesoplenty:seasonal_forest biomesoplenty:pumpkin_patch biomesoplenty:fungal_jungle minecraft:snowy_plains beyond_earth:mars_ice_spikes biomesoplenty:tundra minecraft:forest biomesoplenty:cold_desert biomesoplenty:dead_forest biomesoplenty:shrubland biomesoplenty:crag biomesoplenty:field minecraft:eroded_badlands biomesoplenty:clover_patch minecraft:dark_forest biomesoplenty:volcanic_plains biomesoplenty:highland minecraft:bamboo_jungle minecraft:sunflower_plains minecraft:birch_forest mahoutsukai:marble 
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/INFO]: Tags Loaded
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/INFO]: Tags Loaded
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/INFO]: Tags Loaded
+[15:53:53] [Server thread/ERROR]: Was unable to check if ae2:spatial_storage is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if ae2:spatial_storage is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if ae2:spatial_storage is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if ae2:spatial_storage is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if ae2:spatial_storage is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if ae2:spatial_storage is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: "enhancedcelestials:harvest_moon_crops" is not a valid item tag!
+[15:53:53] [Server thread/ERROR]: "enhancedcelestials:harvest_moon_crops" is not a valid item tag!
+[15:53:53] [Server thread/INFO]: Tags Loaded
+[15:53:53] [Server thread/ERROR]: Was unable to check if compactmachines:compact_world is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if compactmachines:compact_world is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if compactmachines:compact_world is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if compactmachines:compact_world is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if compactmachines:compact_world is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if compactmachines:compact_world is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/INFO]: Tags Loaded
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:venus is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:venus is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:venus is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:venus is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:venus is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:venus is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: "enhancedcelestials:harvest_moon_crops" is not a valid item tag!
+[15:53:53] [Server thread/ERROR]: "enhancedcelestials:harvest_moon_crops" is not a valid item tag!
+[15:53:53] [Server thread/INFO]: Tags Loaded
+[15:53:53] [Server thread/ERROR]: Was unable to check if mahoutsukai:reality_marble is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if mahoutsukai:reality_marble is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if mahoutsukai:reality_marble is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if mahoutsukai:reality_marble is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if mahoutsukai:reality_marble is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if mahoutsukai:reality_marble is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/INFO]: Tags Loaded
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:mars is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:mars is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:mars is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:mars is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:mars is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if beyond_earth:mars is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: "enhancedcelestials:harvest_moon_crops" is not a valid item tag!
+[15:53:53] [Server thread/ERROR]: "enhancedcelestials:harvest_moon_crops" is not a valid item tag!
+[15:53:53] [Server thread/INFO]: Tags Loaded
+[15:53:53] [Server thread/ERROR]: Was unable to check if allthemodium:mining is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if allthemodium:mining is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if allthemodium:mining is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if allthemodium:mining is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if allthemodium:mining is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/ERROR]: Was unable to check if allthemodium:mining is using Terraforged's ChunkGenerator.
+[15:53:53] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everdawn is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everdawn is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everdawn is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everdawn is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everdawn is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everdawn is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mercury_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mars_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mars_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mars_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mars_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mars_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:mars_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:overworld_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:overworld_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:overworld_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:overworld_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:overworld_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:overworld_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everbright is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everbright is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everbright is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everbright is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everbright is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if blue_skies:everbright is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: "enhancedcelestials:harvest_moon_crops" is not a valid item tag!
+[15:53:54] [Server thread/ERROR]: "enhancedcelestials:harvest_moon_crops" is not a valid item tag!
+[15:53:54] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if allthemodium:the_other is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if allthemodium:the_other is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if allthemodium:the_other is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if allthemodium:the_other is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if allthemodium:the_other is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if allthemodium:the_other is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:venus_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:venus_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:venus_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:venus_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:venus_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:venus_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:moon is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/INFO]: Tags Loaded
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/ERROR]: Was unable to check if beyond_earth:glacio_orbit is using Terraforged's ChunkGenerator.
+[15:53:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:53:55] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:53:56] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:53:56] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:53:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:53:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:53:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:53:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:54:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:54:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:54:07] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[15:54:08] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[15:54:08] [Worker-Main-5/INFO]: Preparing spawn area: 5%
+[15:54:09] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[15:54:09] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[15:54:10] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[15:54:10] [Worker-Main-4/INFO]: Preparing spawn area: 12%
+[15:54:11] [Worker-Main-6/INFO]: Preparing spawn area: 16%
+[15:54:11] [Worker-Main-3/INFO]: Preparing spawn area: 17%
+[15:54:12] [Worker-Main-5/INFO]: Preparing spawn area: 22%
+[15:54:12] [Worker-Main-7/INFO]: Preparing spawn area: 25%
+[15:54:13] [Worker-Main-4/INFO]: Preparing spawn area: 36%
+[15:54:13] [Worker-Main-3/INFO]: Preparing spawn area: 41%
+[15:54:14] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[15:54:14] [Worker-Main-6/INFO]: Preparing spawn area: 49%
+[15:54:15] [Worker-Main-2/INFO]: Preparing spawn area: 56%
+[15:54:15] [Worker-Main-4/INFO]: Preparing spawn area: 66%
+[15:54:16] [Worker-Main-6/INFO]: Preparing spawn area: 68%
+[15:54:16] [Worker-Main-6/INFO]: Preparing spawn area: 68%
+[15:54:17] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[15:54:17] [Worker-Main-3/INFO]: Preparing spawn area: 70%
+[15:54:18] [Worker-Main-2/INFO]: Preparing spawn area: 71%
+[15:54:18] [Worker-Main-6/INFO]: Preparing spawn area: 73%
+[15:54:19] [Worker-Main-5/INFO]: Preparing spawn area: 74%
+[15:54:20] [Worker-Main-4/INFO]: Preparing spawn area: 75%
+[15:54:20] [Worker-Main-4/INFO]: Preparing spawn area: 75%
+[15:54:20] [Worker-Main-5/INFO]: Preparing spawn area: 75%
+[15:54:21] [Worker-Main-3/INFO]: Preparing spawn area: 76%
+[15:54:21] [Worker-Main-7/INFO]: Preparing spawn area: 77%
+[15:54:22] [Worker-Main-8/INFO]: Preparing spawn area: 79%
+[15:54:22] [Worker-Main-3/INFO]: Preparing spawn area: 80%
+[15:54:23] [Worker-Main-6/INFO]: Preparing spawn area: 81%
+[15:54:23] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[15:54:25] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[15:54:25] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[15:54:25] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[15:54:25] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[15:54:26] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[15:54:26] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[15:54:27] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[15:54:27] [Worker-Main-8/INFO]: Preparing spawn area: 84%
+[15:54:28] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[15:54:28] [Worker-Main-3/INFO]: Preparing spawn area: 86%
+[15:54:29] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[15:54:29] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[15:54:30] [Worker-Main-7/INFO]: Preparing spawn area: 86%
+[15:54:30] [Worker-Main-7/WARN]: Tried to access a block entity before it was created. MutableBlockPos{x=189, y=-43, z=42}
+[15:54:30] [Worker-Main-5/INFO]: Preparing spawn area: 87%
+[15:54:31] [Worker-Main-5/INFO]: Preparing spawn area: 89%
+[15:54:31] [Worker-Main-3/INFO]: Preparing spawn area: 89%
+[15:54:32] [Worker-Main-2/INFO]: Preparing spawn area: 90%
+[15:54:32] [Worker-Main-5/INFO]: Preparing spawn area: 91%
+[15:54:33] [Worker-Main-7/INFO]: Preparing spawn area: 92%
+[15:54:33] [Worker-Main-7/INFO]: Preparing spawn area: 93%
+[15:54:34] [Worker-Main-5/INFO]: Preparing spawn area: 94%
+[15:54:34] [Worker-Main-4/INFO]: Preparing spawn area: 94%
+[15:54:35] [Worker-Main-8/INFO]: Preparing spawn area: 95%
+[15:54:35] [Worker-Main-8/INFO]: Preparing spawn area: 95%
+[15:54:36] [Worker-Main-6/INFO]: Preparing spawn area: 96%
+[15:54:36] [Worker-Main-7/INFO]: Preparing spawn area: 96%
+[15:54:37] [Worker-Main-6/INFO]: Preparing spawn area: 98%
+[15:54:37] [Worker-Main-4/INFO]: Preparing spawn area: 99%
+[15:54:37] [Server thread/INFO]: Time elapsed: 43275 ms
+[15:54:37] [Server thread/INFO]: Done (51.278s)! For help, type "help"
+[15:54:39] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[15:54:40] [Server thread/WARN]: defineId called for: class com.mna.entities.LivingUtilityEntity from class com.mna.entities.EntityWandClone
+[15:54:40] [Server thread/WARN]: defineId called for: class com.mna.entities.LivingUtilityEntity from class com.mna.entities.EntityWandClone
+[15:54:40] [Server thread/WARN]: defineId called for: class com.mna.entities.LivingUtilityEntity from class com.mna.entities.EntityWandClone
+[15:54:40] [Server thread/WARN]: defineId called for: class com.mna.entities.sorcery.EntityAffinityIcon from class com.mna.entities.boss.attacks.PumpkinKingEntangleEntity
+[15:54:40] [Server thread/WARN]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
+[15:54:40] [Server thread/INFO]: 343 woodcutting recipes loaded
+[15:54:41] [Server thread/INFO]: Traits loaded: 68
+[15:54:41] [Server thread/INFO]: Parts loaded: 44
+[15:54:41] [Server thread/INFO]: - Compound: 40
+[15:54:41] [Server thread/INFO]: - Simple: 4
+[15:54:41] [Server thread/INFO]: Materials loaded: 118
+[15:54:41] [Server thread/INFO]: - Standard: 112
+[15:54:41] [Server thread/INFO]: Loading infobook /data/integrateddynamics/info/on_the_dynamics_of_integration.xml
+[15:54:41] [Server thread/INFO]: Trying jar discover: assets/structurize
+[15:54:41] [Server thread/INFO]: Trying jar discover: assets/minecolonies
+[15:54:43] [Server thread/INFO]: Load additional huts or decorations from .\structurize/schematics
+[15:54:43] [Server thread/INFO]: Load cached schematic from .\structurize/cache
+[15:54:43] [Server thread/INFO]: Load cached schematic from .\structurize/cache
+[15:54:43] [Server thread/INFO]: Loading infobook /data/cyclopscore/info/test.xml
+[15:54:43] [Server thread/INFO]: Loading EnderTank Data
+[15:54:43] [Server thread/INFO]: Finished Loading EnderTank Data
+[15:54:43] [Server thread/INFO]: Loading EnderChest Data
+[15:54:43] [Server thread/INFO]: Finished Loading EnderChest Data
+[15:54:44] [Server thread/INFO]: Finished discovering saplings 70
+[15:54:44] [Server thread/INFO]: Finished discovering Ores 127 46
+[15:54:44] [Server thread/INFO]: Finished discovering plantables 19
+[15:54:44] [Server thread/INFO]: Finished discovering food 375 414
+[15:54:44] [Server thread/INFO]: Finished discovering fuel 1698
+[15:54:44] [Server thread/INFO]: Finished discovering compostables 379
+[15:54:44] [Server thread/INFO]: Finished discovering lucky oreBlocks 127
+[15:54:44] [Server thread/INFO]: Finished discovering recruitment costs
+[15:54:44] [Server thread/INFO]: Finished discovering diseases
+[15:54:44] [Server thread/WARN]: Unhandled modifier in loot table: minecraft:set_potion
+[15:54:44] [Server thread/WARN]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[15:54:44] [Server thread/WARN]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[15:54:44] [Server thread/WARN]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[15:54:44] [Server thread/WARN]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[15:54:44] [Server thread/INFO]: Sending reload packet to clients
+[15:54:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
