@@ -146,10 +146,10 @@ launch:
   checkOffline: true
 
   # specifies the max amount of ram the server is supposed to launch with
-  maxRam: 4G
+  maxRam: 16G
 
   # specifies the min amount of ram the server is supposed to launch with
-  minRam: 2G
+  minRam: 8G
 
   # specifies whether the server is supposed to auto restart after crash
   autoRestart: true
@@ -159,7 +159,7 @@ launch:
 
   # Time a crash should be still accounted for in the {crashLimit}
   # syntax is either [number]h or [number]min or [number]s
-  crashTimer: 60min
+  crashTimer: 20min
 
   # Arguments that need to go before the 'java' argument, something like linux niceness
   # This is only a string, not a list.
