@@ -1,47 +1,46 @@
-[15:52:49] [INFO ] Loaded script server_scripts:constants.js in 0.011 s
-[15:52:49] [INFO ] Loaded script server_scripts:tags.js in 0.012 s
-[15:52:49] [INFO ] Loaded script server_scripts:unify.js in 0.009 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/ae/ae.js in 0.001 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/angelring/angelring.js in 0.001 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/beyond_earth/beyond_earth.js in 0.001 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/buildinggadgets/buildinggadgets.js in 0.001 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/computercraft/computercraft.js in 0.002 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/create/create.js in 0.002 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/entangled/entangled.js in 0.001 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/explorers_compass/explorers_compass.js in 0.001 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/immersive_engineering/immersive_engineering.js in 0.002 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/mininggadgets/mininggadgets.js in 0.001 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/mystical_agriculture/ma_crafting.js in 0.002 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/mystical_agriculture/ma_crops.js in 0.001 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/quarryplus/quarryplus.js in 0.001 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/refinedstorage/refinedstorage.js in 0.003 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/rftools/rftools.js in 0.001 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/storage_drawers/storage_drawers.js in 0.001 s
-[15:52:49] [INFO ] Loaded script server_scripts:mod_specific/_allthemods/allthemodium.js in 0.002 s
-[15:52:49] [INFO ] Loaded 20/20 KubeJS server scripts in 0.072 s
-[15:52:49] [INFO ] Scripts loaded
-[15:52:49] [WARN ] Failed to register handler for recipe type ars_nouveau:glyph_recipe as it doesn't exist!
-[15:52:49] [INFO ] Scanning recipes...
-[15:52:49] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
-[15:52:49] [INFO ] [block_entity_types] Found 3 tags, added 0 objects, removed 0 objects
-[15:52:49] [INFO ] [mob_effects] Found 1 tags, added 0 objects, removed 0 objects
-[15:52:50] [INFO ] [fluids] Found 32 tags, added 0 objects, removed 0 objects
-[15:52:50] [INFO ] [entity_types] Found 76 tags, added 0 objects, removed 0 objects
-[15:52:50] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[15:52:50] [INFO ] [game_events] Found 2 tags, added 0 objects, removed 0 objects
-[15:52:50] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[15:52:50] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
-[15:52:51] [INFO ] [blocks] Found 970 tags, added 20 objects, removed 0 objects
-[15:52:52] [INFO ] [items] Found 1908 tags, added 17 objects, removed 2 objects
-[15:53:00] [WARN ] Failed to parse recipe 'createaddition:mechanical_crafting/overcharged_hammer[create:mechanical_crafting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'createaddition:overcharged_alloy'
-[15:53:00] [WARN ] Failed to parse recipe createaddition:mechanical_crafting/overcharged_hammer[create:mechanical_crafting]: com.google.gson.JsonSyntaxException: Unknown item 'createaddition:overcharged_alloy'
-[15:53:00] [INFO ] Found 17648 recipes and 0 failed recipes in 1.415 s
-[15:53:05] [INFO ] Posted recipe events in 4.756 s
-[15:53:05] [WARN ] Error parsing recipe immersiveengineering:mixer/herbicide[immersiveengineering:mixer]: {"type":"immersiveengineering:mixer","inputs":[{"tag":"forge:dusts/saltpeter"},{"tag":"forge:dusts/copper"}],"result":{"fluid":"immersiveengineering:herbicide","amount":500},"fluid":{"tag":"forge:ethanol","amount":500},"energy":3200}: java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because "name" is null
-[15:53:05] [WARN ] Error parsing recipe beyond_earth_giselle_addon:rolling/iron_plate[beyond_earth_giselle_addon:rolling]: {"type":"beyond_earth_giselle_addon:rolling","input":{"tag":"forge:ingots/iron"},"output":{"item":"beyond_earth:iron_plate","count":1},"cookTime":200}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
-[15:53:05] [WARN ] Error parsing recipe beyond_earth:generating/coal_coke[beyond_earth:generating]: {"type":"beyond_earth:generating","conditions":[{"value":{"tag":"forge:coal_coke","type":"forge:tag_empty"},"type":"forge:not"}],"input":{"tag":"forge:coal_coke"},"burnTime":800}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
-[15:53:05] [WARN ] Error parsing recipe beyond_earth:compressing/compressed_steel[beyond_earth:compressing]: {"type":"beyond_earth:compressing","input":{"tag":"forge:ingots/steel"},"output":{"item":"beyond_earth:compressed_steel","count":1},"cookTime":200}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
-[15:53:05] [WARN ] Error parsing recipe beyond_earth_giselle_addon:extruding/iron_stick[beyond_earth_giselle_addon:extruding]: {"type":"beyond_earth_giselle_addon:extruding","input":{"tag":"forge:ingots/iron"},"output":{"item":"beyond_earth:iron_stick","count":2},"cookTime":50}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
-[15:53:05] [INFO ] Modified & removed recipes in 353.1 ms
-[15:53:05] [INFO ] Added recipes in 22.25 ms
-[15:53:05] [INFO ] Added 247 recipes, removed 328 recipes, modified 3237 recipes, with 5 failed recipes and 0 fall-backed recipes
+[16:11:33] [INFO ] Loaded script server_scripts:constants.js in 0.007 s
+[16:11:33] [INFO ] Loaded script server_scripts:tags.js in 0.01 s
+[16:11:33] [INFO ] Loaded script server_scripts:unify.js in 0.008 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/ae/ae.js in 0.0 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/angelring/angelring.js in 0.001 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/beyond_earth/beyond_earth.js in 0.002 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/buildinggadgets/buildinggadgets.js in 0.001 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/computercraft/computercraft.js in 0.001 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/create/create.js in 0.001 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/entangled/entangled.js in 0.001 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/explorers_compass/explorers_compass.js in 0.001 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/immersive_engineering/immersive_engineering.js in 0.002 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/mininggadgets/mininggadgets.js in 0.001 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/mystical_agriculture/ma_crafting.js in 0.001 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/mystical_agriculture/ma_crops.js in 0.001 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/quarryplus/quarryplus.js in 0.002 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/refinedstorage/refinedstorage.js in 0.002 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/rftools/rftools.js in 0.001 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/storage_drawers/storage_drawers.js in 0.0 s
+[16:11:33] [INFO ] Loaded script server_scripts:mod_specific/_allthemods/allthemodium.js in 0.002 s
+[16:11:33] [INFO ] Loaded 20/20 KubeJS server scripts in 0.055 s
+[16:11:33] [INFO ] Scripts loaded
+[16:11:33] [WARN ] Failed to register handler for recipe type ars_nouveau:glyph_recipe as it doesn't exist!
+[16:11:33] [INFO ] Scanning recipes...
+[16:11:34] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[16:11:34] [INFO ] [block_entity_types] Found 3 tags, added 0 objects, removed 0 objects
+[16:11:34] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[16:11:34] [INFO ] [game_events] Found 2 tags, added 0 objects, removed 0 objects
+[16:11:34] [INFO ] [fluids] Found 34 tags, added 0 objects, removed 0 objects
+[16:11:34] [INFO ] [entity_types] Found 77 tags, added 0 objects, removed 0 objects
+[16:11:35] [INFO ] [mob_effects] Found 1 tags, added 0 objects, removed 0 objects
+[16:11:35] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[16:11:36] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[16:11:37] [INFO ] [items] Found 1882 tags, added 17 objects, removed 2 objects
+[16:11:37] [INFO ] [blocks] Found 972 tags, added 20 objects, removed 0 objects
+[16:11:50] [INFO ] Found 16919 recipes and 0 failed recipes in 1.166 s
+[16:11:54] [INFO ] Posted recipe events in 4.270 s
+[16:11:54] [WARN ] Error parsing recipe immersiveengineering:mixer/herbicide[immersiveengineering:mixer]: {"type":"immersiveengineering:mixer","inputs":[{"tag":"forge:dusts/saltpeter"},{"tag":"forge:dusts/copper"}],"result":{"fluid":"immersiveengineering:herbicide","amount":500},"fluid":{"tag":"forge:ethanol","amount":500},"energy":3200}: java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because "name" is null
+[16:11:54] [WARN ] Error parsing recipe beyond_earth:space_station/space_station[beyond_earth:space_station]: {"type":"beyond_earth:space_station","ingredients":[{"ingredient":{"tag":"forge:ingots/desh"},"count":6},{"ingredient":{"tag":"forge:ingots/steel"},"count":16},{"ingredient":{"tag":"forge:plates/iron"},"count":12},{"ingredient":{"tag":"forge:plates/desh"},"count":4}]}: com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
+[16:11:54] [WARN ] Error parsing recipe beyond_earth_giselle_addon:rolling/iron_plate[beyond_earth_giselle_addon:rolling]: {"type":"beyond_earth_giselle_addon:rolling","input":{"tag":"forge:ingots/iron"},"output":{"item":"beyond_earth:iron_plate","count":1},"cookTime":200}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
+[16:11:54] [WARN ] Error parsing recipe beyond_earth:generating/coal_coke[beyond_earth:generating]: {"type":"beyond_earth:generating","conditions":[{"value":{"tag":"forge:coal_coke","type":"forge:tag_empty"},"type":"forge:not"}],"input":{"tag":"forge:coal_coke"},"burnTime":800}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
+[16:11:54] [WARN ] Error parsing recipe beyond_earth:compressing/compressed_steel[beyond_earth:compressing]: {"type":"beyond_earth:compressing","input":{"tag":"forge:ingots/steel"},"output":{"item":"beyond_earth:compressed_steel","count":1},"cookTime":200}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
+[16:11:54] [WARN ] Error parsing recipe beyond_earth_giselle_addon:extruding/iron_stick[beyond_earth_giselle_addon:extruding]: {"type":"beyond_earth_giselle_addon:extruding","input":{"tag":"forge:ingots/iron"},"output":{"item":"beyond_earth:iron_stick","count":2},"cookTime":50}: com.google.gson.JsonSyntaxException: Missing ingredient, expected to find a JsonObject
+[16:11:54] [INFO ] Modified & removed recipes in 375.2 ms
+[16:11:54] [INFO ] Added recipes in 20.85 ms
+[16:11:54] [INFO ] Added 250 recipes, removed 332 recipes, modified 3254 recipes, with 6 failed recipes and 0 fall-backed recipes

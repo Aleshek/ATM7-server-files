@@ -23,7 +23,7 @@
   "forge:gems/ruby": "null",
   "forge:dusts/niter": "null",
   "forge:ingots/chrome": "null",
-  "forge:ingots/brass": "create:brass_ingot",
+  "forge:ingots/brass": "alltheores:brass_ingot",
   "forge:ingots/titanium": "null",
   "forge:rubber": "null",
   "forge:dusts/sulfur": "immersiveengineering:dust_sulfur",

@@ -42,7 +42,7 @@ install:
 
   # Link to where the file where the modpack can be distributed
   # This supports loading from local files as well for most pack types if there is file://{PathToFile} in the beginning
-  modpackUrl: https://media.forgecdn.net/files/3622/727/All+the+Mods+7-0.2.35.zip
+  modpackUrl: https://media.forgecdn.net/files/3631/294/All+the+Mods+7-0.2.36.zip
 
   # This is used to specify in which format the modpack is distributed, the server launcher has to handle each individually if their format differs
   # current supported formats:
@@ -146,10 +146,10 @@ launch:
   checkOffline: true
 
   # specifies the max amount of ram the server is supposed to launch with
-  maxRam: 16G
+  maxRam: 4G
 
   # specifies the min amount of ram the server is supposed to launch with
-  minRam: 8G
+  minRam: 2G
 
   # specifies whether the server is supposed to auto restart after crash
   autoRestart: true

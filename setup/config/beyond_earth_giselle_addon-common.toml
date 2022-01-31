@@ -18,6 +18,21 @@
 		energyUsingBase = 0
 		energyUsingPerRange = 1
 
+[enchantments]
+
+	[enchantments.space_breathing]
+		energyUsing = 10
+		oxygenDuration = 4
+
+	[enchantments.gravity_normalizing]
+		energyUsing = 10
+
+	[enchantments.space_fire_proof]
+		energyUsing = 10
+
+	[enchantments.venus_acid_proof]
+		energyUsing = 10
+
 [compats]
 
 	[compats.mekanism]
